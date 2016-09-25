@@ -1,0 +1,7 @@
+{
+  "name": "flooring",
+  "version": "1970.0.0",
+  "description": "Test module.",
+  "main": "index.js",
+  "license": "MIT"
+}
